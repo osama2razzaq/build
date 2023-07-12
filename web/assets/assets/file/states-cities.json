@@ -1,9 +1,6 @@
 {
-  "All": [
-   
-  ],
+
   "Johor": [
-    "All",
     "Johor Bahru",
     "Tebrau",
     "Pasir Gudang",
@@ -31,7 +28,6 @@
     "Chaah"
   ],
   "Kedah": [
-    "All",
     "Sungai Petani",
     "Alor Setar",
     "Kulim",
@@ -46,7 +42,6 @@
     "Bandar Baharu"
   ],
   "Kelantan": [
-    "All",
     "Kota Bharu",
     "Pangkal Kalong",
     "Tanah Merah",
@@ -59,7 +54,6 @@
     "Tumpat"
   ],
   "Melaka": [
-    "All",
     "Bandaraya Melaka",
     "Bukit Baru",
     "Ayer Keroh",
@@ -76,7 +70,6 @@
     "Jasin"
   ],
   "Negeri Sembilan": [
-    "All",
     "Seremban",
     "Port Dickson",
     "Nilai",
@@ -85,7 +78,6 @@
     "Kuala Pilah"
   ],
   "Pahang": [
-    "All",
     "Kuantan",
     "Temerloh",
     "Bentong",
@@ -98,7 +90,6 @@
     "Bukit Tinggi"
   ],
   "Perak": [
-    "All",
     "Ipoh",
     "Taiping",
     "Sitiawan",
@@ -120,12 +111,10 @@
     "Kampar"
   ],
   "Perlis": [
-    "All",
     "Kangar",
     "Kuala Perlis"
   ],
   "Pulau Pinang": [
-    "All",
     "Bukit Mertajam",
     "Georgetown",
     "Sungai Ara",
@@ -141,7 +130,6 @@
     "Juru"
   ],
   "Sabah": [
-    "All",
     "Kota Kinabalu",
     "Sandakan",
     "Tawau",
@@ -159,7 +147,6 @@
     "Kota Belud"
   ],
   "Sarawak": [
-    "All",
     "Kuching",
     "Miri",
     "Sibu",
@@ -172,7 +159,6 @@
     "Kota Samarahan"
   ],
   "Selangor": [
-    "All",
     "Cyberjaya",
     "Subang Jaya",
     "Subang",
@@ -212,7 +198,6 @@
     "Sabak Bernam"
   ],
   "Terengganu": [
-    "All",
     "Kuala Terengganu",
     "Chukai",
     "Dungun",
@@ -222,12 +207,10 @@
     "Paka",
     "Jerteh"
   ],
-  "Putrajaya" : [
-    "All",
+  "Putrajaya": [
     "Putrajaya"
   ],
   "Kuala Lumpur": [
-    "All",
     "Kuala Lumpur"
   ]
 }
