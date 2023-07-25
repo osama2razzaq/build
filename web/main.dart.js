@@ -63920,24 +63920,22 @@ s=A.k(this).i("c5.T")
 k=k.aM(0,l,s).k4
 r=k.gj(k).a
 k=A.cF(l,A.by(B.r,14,B.y,B.ab,l),"Last Data Updated: ")
-q=A.za("dd-MM-yyyy hh:mm a",l)
-p=r.p3
-p.toString
-p=q.jL(A.aXB(p))
-p=A.b5N(A.cF(A.b([k,A.cF(l,A.by(B.cj,12,B.y,B.ab,l),p)],t.VO),l,l),l,l)
+q=r.p3
+q=q==null?"":A.za("dd-MM-yyyy hh:mm a",l).jL(A.aXB(q))
+q=A.b5N(A.cF(A.b([k,A.cF(l,A.by(B.cj,12,B.y,B.ab,l),q)],t.VO),l,l),l,l)
 k=A.aj("Status",l,l,l,l,A.by($.hh(),18,B.y,B.ab,l),l,l,l)
-q=A.as(l,8,l)
+p=A.as(l,8,l)
 o=$.yd()
 n=r.fr
 m=$.X
 if(n==null)s=A.h5((m==null?$.X=B.p:m).aM(0,l,s).k2[0],l,40,l,l,40)
 else s=A.h5((m==null?$.X=B.p:m).aM(0,l,s).k2[A.dk(n,l)],l,40,l,l,40)
 n=t.p
-o=A.aT(A.b([k,q,A.S(l,s,B.f,l,l,o,l,l,l,new A.a8(4,4,4,4),new A.a8(10,10,10,10),l,l,l)],n),B.m,B.o,B.k)
+o=A.aT(A.b([k,p,A.S(l,s,B.f,l,l,o,l,l,l,new A.a8(4,4,4,4),new A.a8(10,10,10,10),l,l,l)],n),B.m,B.o,B.k)
 s=A.aj("Information",l,l,l,l,A.by($.hh(),18,B.y,B.ab,l),l,l,l)
-q=A.as(l,8,l)
+p=A.as(l,8,l)
 k=$.yd()
-return A.aT(A.b([p,new A.aq(B.aR,A.aR(A.b([o,A.aT(A.b([s,q,A.df(l,A.S(l,A.h5("assets/icons/details.png",l,40,l,l,40),B.f,l,l,k,l,l,l,new A.a8(4,4,4,4),new A.a8(10,10,10,10),l,l,l),B.w,!1,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,new A.ajp(this,a),l,l,l,l,l,l)],n),B.m,B.o,B.k)],n),B.m,B.L,B.k,l),l),A.amR(l,1)],n),B.m,B.o,B.k)},
+return A.aT(A.b([q,new A.aq(B.aR,A.aR(A.b([o,A.aT(A.b([s,p,A.df(l,A.S(l,A.h5("assets/icons/details.png",l,40,l,l,40),B.f,l,l,k,l,l,l,new A.a8(4,4,4,4),new A.a8(10,10,10,10),l,l,l),B.w,!1,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,new A.ajp(this,a),l,l,l,l,l,l)],n),B.m,B.o,B.k)],n),B.m,B.L,B.k,l),l),A.amR(l,1)],n),B.m,B.o,B.k)},
 aCf(a){var s,r,q,p,o,n,m,l,k,j,i,h=null,g=$.X
 if(g==null)g=$.X=B.p
 g=g.aM(0,h,A.k(this).i("c5.T")).k4
